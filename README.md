@@ -1,2 +1,2 @@
 # Hack-GPT
-A coding, penetration testing and security ai
+AI-powered cybersecurity assistant
